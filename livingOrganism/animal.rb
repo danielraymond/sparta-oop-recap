@@ -22,7 +22,7 @@ class Animal < LivingOrganism
     puts 'An animal can speak!'
   end
 
-  def proCreate
+  def pro_create
     puts 'An animal can pro-create'
   end
 
@@ -31,6 +31,6 @@ end
 # Animal.alive
 
 # Animal.traits
-
-check = Animal.new
-check.proCreate
+#
+# check = Animal.new
+# check.proCreate
